@@ -1,17 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to Leptodon's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Leptodon** (/lep'todon/) is a suite of business tools and applications developed by Micronisus Systems. 
+The Leptodon Suite is a no-holds-barred approach for small to medium-sized businesses looking to rid themselves of IT headaches. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+You’ll have one login to access thousands of features for every aspect of your day-to-day. All powered by open source solutions and run on our fully-managed infrastructure; with dedicated support just a phone call away.
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
